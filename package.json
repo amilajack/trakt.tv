@@ -9,7 +9,7 @@
     },
     "scripts": {
         "postinstall": "rm *.md"
-    }
+    },
     "keywords": [
         "trakt.tv",
         "trakt",
