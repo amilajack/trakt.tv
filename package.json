@@ -7,9 +7,6 @@
         "type": "git",
         "url": "https://github.com/vankasteelj/trakt.tv"
     },
-    "scripts": {
-        "postinstall": "rm *.md"
-    },
     "keywords": [
         "trakt.tv",
         "trakt",
